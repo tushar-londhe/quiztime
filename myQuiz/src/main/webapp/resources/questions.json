@@ -1,0 +1,73 @@
+{
+   "questions":[
+      {
+         "questionID":"100",
+         "questionDesc":"How many times India has won the World Cup ?",
+         "options":[
+            {
+               "optionID":"100",
+               "optionDesc":"3"
+            },
+            {
+               "optionID":"101",
+               "optionDesc":"5"
+            },
+            {
+               "optionID":"102",
+               "optionDesc":"2"
+            },
+            {
+               "optionID":"103",
+               "optionDesc":"1"
+            }
+         ],
+         "correctAns":"2"
+      },
+      {
+         "questionID":"101",
+         "questionDesc":"Who has the highest number of centuries in Test Cricket",
+         "options":[
+            {
+               "optionID":"100",
+               "optionDesc":"Sachin Tendulkar"
+            },
+            {
+               "optionID":"101",
+               "optionDesc":"Ricky Ponting"
+            },
+            {
+               "optionID":"102",
+               "optionDesc":"Brian Lara"
+            },
+            {
+               "optionID":"103",
+               "optionDesc":"Sunil Gavaskar"
+            }
+         ],
+         "correctAns":"Sachin Tendulkar"
+      },
+      {
+         "questionID":"102",
+         "questionDesc":"Who has the highest number of wickets in Test Cricket",
+         "options":[
+            {
+               "optionID":"100",
+               "optionDesc":"Anil Kumble"
+            },
+            {
+               "optionID":"101",
+               "optionDesc":"Shane Warne"
+            },
+            {
+               "optionID":"102",
+               "optionDesc":"Glenn McGrath"
+            },
+            {
+               "optionID":"103",
+               "optionDesc":"Mutthaiah Murlidharan"
+            }
+         ],
+         "correctAns":"Mutthaiah Murlidharan"
+      }
+   ]
+}
